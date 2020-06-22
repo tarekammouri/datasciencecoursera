@@ -5,4 +5,4 @@ date: "6/22/2020"
 output: pdf_document
 ---
 
-## This a markdown file
+## This is a markdown file
